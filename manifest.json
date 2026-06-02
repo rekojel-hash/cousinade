@@ -1,0 +1,16 @@
+{
+  "name": "Cousinade 🌻",
+  "short_name": "Cousinade",
+  "description": "Organisez votre cousinade en famille",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fdf6ee",
+  "theme_color": "#c96a30",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["lifestyle", "utilities"],
+  "lang": "fr"
+}
